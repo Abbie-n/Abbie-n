@@ -1,5 +1,5 @@
 Full name - Abigail Nonyelim
 Email address - abigailnonyelim@outlook.com
 Slack username - Abbie-n
-Tracks and the courses I have registered for - Frontend
-                                               Mobile (Flutter)
+Tracks and the courses I registered for - Frontend
+                                          Mobile (Flutter)
